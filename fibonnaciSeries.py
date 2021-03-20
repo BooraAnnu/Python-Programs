@@ -4,7 +4,7 @@ Created on Thu Mar 18 08:50:29 2021
 
 @author: hp
 """
-
+# Program to print the fibonnaci series 
 
 n= int(input("Enter how many fibonnaci numbers : "))
 f1=0
